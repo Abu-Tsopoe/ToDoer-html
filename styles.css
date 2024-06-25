@@ -1,0 +1,30 @@
+header, footer{
+    background:linear-gradient(to bottom right, #FFAF35, #F9ECD9)
+}
+header img{
+    width: 150px;
+    height: 60px;
+}
+.headline{
+    font-family:'Courier New', Courier, monospace
+}
+.add-task{
+    border-top: 2px solid black;
+}
+.add-task, .task-list{
+    background-color: #F9ECD9;
+    border-bottom: 2px solid black;
+}
+.task form, .task-list ul{
+    border: 2px solid black;
+}
+.clear {
+    text-align: center;
+}
+.completed {
+    text-decoration: line-through;
+}
+.footer p{
+    margin-bottom: 0;
+}
+
